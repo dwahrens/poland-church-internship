@@ -29,12 +29,12 @@ The schedule is very loose and will be modified with development progress.
       - [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   6. Watch the [Web Demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g) series
 - Week Two (6/1-6/5)
-  1. Walk through [Getting started with the Web] (https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+  1. Walk through [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
   2. Walk through [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML). **Modules 1, 2 & 3.**
   3. Create two new branches on the *poland-church-internship-code* and begin structuring a **sermons.html** and **daily-devos.html** pages in those branches using VSCode with Live Reload. Be sure to commit and push changes.
   4. Read [Progressive Enhancement](https://www.freecodecamp.org/news/what-is-progressive-enhancement-and-why-it-matters-e80c7aaf834a/)
 - Week Three (6/8-6/12)
-  1. Walk through the [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS). **Modules 1, 2, 3 & 4.**
+  1. Walk through [Learn CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS). **Modules 1, 2, 3 & 4.**
   2. Review the [Bulma Documentation](https://bulma.io/documentation/) *NOTE: This framework is used on Poland Church sites but there are many others.*
   3. Begin styling the **sermons.html** and **daily-devos.html** pages using LiveReload.
 - Week Four (6/15-6/19)
