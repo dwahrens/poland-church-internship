@@ -22,11 +22,11 @@ The schedule is very loose and will be modified with development progress.
   3. Walk through the [HelloWorld](https://guides.github.com/activities/hello-world/) Guide
   4. Add a new Repository called **poland-church-internship-code** and share with (dwahrens)[https://github.com/dwahrens/]
   5. Setup VSCode with the following extensions:
-    - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
-    - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-    - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-    - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-    - [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+      - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
+      - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+      - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+      - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+      - [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   6. Watch the [Web Demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g) series
 - Week Two (6/1-6/5)
   1. Walk through [Getting started with the Web] (https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
