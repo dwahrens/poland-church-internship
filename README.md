@@ -20,7 +20,7 @@ The schedule is very loose and will be modified with development progress.
   1. Walk through the [Git Tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
   2. Create a [GitHub](https://github.com) Account
   3. Walk through the [HelloWorld](https://guides.github.com/activities/hello-world/) Guide
-  4. Add a new Repository called **poland-church-internship-code** and share with (dwahrens)[https://github.com/dwahrens/]
+  4. Add a new Repository called **poland-church-internship-code** and share with [dwahrens](https://github.com/dwahrens/)
   5. Setup VSCode with the following extensions:
       - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
       - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
