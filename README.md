@@ -49,8 +49,8 @@ The schedule is very loose and will be modified with development progress.
 
 ## Page Features
 1. sermons.html
-  - Table of Audio and Embedded Videos
-  - Audio Player look and feel
-  - Table rows expand
+    - Table of Audio and Embedded Videos
+    - Audio Player look and feel
+    - Table rows expand
 2. daily-devos.html
-  - List of tile Embedded videos
+    - List of tile Embedded videos
