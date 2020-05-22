@@ -19,15 +19,16 @@ The schedule is very loose and will be modified with development progress.
 - Week One (5/26-5/29)
   1. Walk through the [Git Tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
   2. Create a [GitHub](https://github.com) Account
-  3. Walk through the [HelloWorld](https://guides.github.com/activities/hello-world/) Guide
-  4. Add a new Repository called **poland-church-internship-code** and share with [dwahrens](https://github.com/dwahrens/)
-  5. Setup VSCode with the following extensions:
+  3. Download [Git](https://git-scm.com/download/win)
+  4. Walk through the [HelloWorld](https://guides.github.com/activities/hello-world/) Guide
+  5. Add a new Repository called **poland-church-internship-code** and share with [dwahrens](https://github.com/dwahrens/)
+  6. Setup VSCode with the following extensions:
       - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
       - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
       - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
       - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
       - [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-  6. Watch the [Web Demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g) series
+  7. Watch the [Web Demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g) series
 - Week Two (6/1-6/5)
   1. Walk through [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
   2. Walk through [Learn HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML). **Modules 1, 2 & 3.**
