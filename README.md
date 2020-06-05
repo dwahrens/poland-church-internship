@@ -52,6 +52,10 @@ The schedule is very loose and will be modified with development progress.
 1. sermons.html
     - Table of Audio and Embedded Videos
     - Audio Player look and feel
-    - Table rows expand
+    - Tiles 
 2. daily-devos.html
-    - List of tile Embedded videos
+    - Table with rows that expand
+
+## Wireframes
+- Download [Pencil Project](https://pencil.evolus.vn/Downloads.html)
+- Open the **polandchurch-wireframe.epgz** in this repository.
